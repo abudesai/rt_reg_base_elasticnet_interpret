@@ -1,4 +1,4 @@
-Linear Regression using Interpret ML and Scikit-Learn Elastic Net as the linear class in model interpretability for Regression.
+Elastic Net Linear Regression using Interpret ML and Scikit-Learn for Regression-Base.
 
 - glass box
 - linear regression
